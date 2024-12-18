@@ -3,6 +3,7 @@ All notable changes of this projected are documented here.
 
 ## v1.0.0 - 01-11-2024
 ### Features
+- Implemented wix setup within project ([#8](https://github.com/pekmah/Semantic-Versioning/pull/9))
 - Setup wix commerce project ([#3](https://github.com/pekmah/Semantic-Versioning/pull/4))
 - Created Next js project ([#1](https://github.com/pekmah/Semantic-Versioning/pull/2))
 
