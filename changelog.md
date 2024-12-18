@@ -1,6 +1,20 @@
 # Change Log
 All notable changes of this projected are documented here.
 
+## v1.0.1 - 08-11-2024
+### Features
+- Cart view & product view added ([#27](https://github.com/pekmah/Semantic-Versioning/pull/28))
+- Navbar created ([#25](https://github.com/pekmah/Semantic-Versioning/pull/26))
+- Reusable image component created ([#21](https://github.com/pekmah/Semantic-Versioning/pull/21))
+- Products added ([#19](https://github.com/pekmah/Semantic-Versioning/pull/20))
+- Banner section added ([#15](https://github.com/pekmah/Semantic-Versioning/pull/16))
+- Banner image added to assets ([#13](https://github.com/pekmah/Semantic-Versioning/pull/14))
+### Changes
+- Font changed ([#11](https://github.com/pekmah/Semantic-Versioning/pull/13))
+
+### Fixes
+- Missing properties on product item fixed ([#23](https://github.com/pekmah/Semantic-Versioning/pull/24))
+
 ## v1.0.0 - 01-11-2024
 ### Features
 - Implemented wix setup within project ([#8](https://github.com/pekmah/Semantic-Versioning/pull/9))
