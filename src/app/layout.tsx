@@ -1,8 +1,10 @@
 import type { Metadata } from "next";
-import { Inter } from "next/font/google";
+import { Lato } from "next/font/google";
 import "./globals.css";
+import { Navbar } from "@/components/navbar";
 
-const interFont = Inter({
+const interFont = Lato({
+  weight: "400",
   subsets: ["latin"],
 });
 
@@ -21,7 +23,11 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body className={interFont.className}>{children}</body>
+      <body className={interFont.className}>
+        <Navbar />
+
+        {children}
+      </body>
     </html>
   );
 }
